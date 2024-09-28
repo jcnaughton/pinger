@@ -1,0 +1,1 @@
+flask --app flaskSubnet --debug run
